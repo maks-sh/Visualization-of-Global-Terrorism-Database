@@ -1,17 +1,20 @@
 # My research
-The aim of this work was to learn how to use Plotly Library and to practice of drawing the graphs and diagrams.
+The aim of this work was to learn how to use [Plotly Library](https://plot.ly/python/) and to practice of drawing the graphs and diagrams.
 
-## Content of research
-1. [Introduction](#Introduction)
-2. [Import data](#Import-data)
-3. [Terrorist attacks by latitude/longitude](#Terrorist-attacks-by-latitude/longitude)
-4. [Terrorist attacks for years](#Terrorist-attacks-for-years)
-5. [Terrorist attacks per holidays](#Terrorist-attacks-per-holidays)
-6. [Terrorist attacks per weekday](#Terrorist-attacks-per-weekday)
-7. [Terrorist attacks by target](#Terrorist-attacks-by-target)
-8. [Terrorist attacks by weapon](#Terrorist-attacks-by-weapon)
-9. [Terrorist attacks to cities](#Terrorist-attacks-to-cities)
-10. [Terrorist attacks per Moscow district's](#Terrorist-attacks-per-Moscow-district's)
+* **[nbviewer](http://nbviewer.jupyter.org/github/maks-sh/Visualization-of-Global-Terrorism-Database/blob/master/Terror-eng.ipynb)**
+* [jupyter notebook](https://github.com/maks-sh/Visualization-of-Global-Terrorism-Database/blob/master/Terror-eng.ipynb)
+
+## Content of research (nbviewer)
+1. [Introduction](http://nbviewer.jupyter.org/github/maks-sh/Visualization-of-Global-Terrorism-Database/blob/master/Terror-eng.ipynb#Introduction)
+2. [Import data](http://nbviewer.jupyter.org/github/maks-sh/Visualization-of-Global-Terrorism-Database/blob/master/Terror-eng.ipynb#Import-data)
+3. [Terrorist attacks by latitude/longitude](http://nbviewer.jupyter.org/github/maks-sh/Visualization-of-Global-Terrorism-Database/blob/master/Terror-eng.ipynb#Terrorist-attacks-by-latitude/longitude)
+4. [Terrorist attacks for years](http://nbviewer.jupyter.org/github/maks-sh/Visualization-of-Global-Terrorism-Database/blob/master/Terror-eng.ipynb#Terrorist-attacks-for-years)
+5. [Terrorist attacks per holidays](http://nbviewer.jupyter.org/github/maks-sh/Visualization-of-Global-Terrorism-Database/blob/master/Terror-eng.ipynb#Terrorist-attacks-per-holidays)
+6. [Terrorist attacks per weekday](http://nbviewer.jupyter.org/github/maks-sh/Visualization-of-Global-Terrorism-Database/blob/master/Terror-eng.ipynb#Terrorist-attacks-per-weekday)
+7. [Terrorist attacks by target](http://nbviewer.jupyter.org/github/maks-sh/Visualization-of-Global-Terrorism-Database/blob/master/Terror-eng.ipynb#Terrorist-attacks-by-target)
+8. [Terrorist attacks by weapon](http://nbviewer.jupyter.org/github/maks-sh/Visualization-of-Global-Terrorism-Database/blob/master/Terror-eng.ipynb#Terrorist-attacks-by-weapon)
+9. [Terrorist attacks to cities](http://nbviewer.jupyter.org/github/maks-sh/Visualization-of-Global-Terrorism-Database/blob/master/Terror-eng.ipynb#Terrorist-attacks-to-cities)
+10. [Terrorist attacks per Moscow district's](http://nbviewer.jupyter.org/github/maks-sh/Visualization-of-Global-Terrorism-Database/blob/master/Terror-eng.ipynb#Terrorist-attacks-per-Moscow-district's)
 
 # About GTD
 ## Main
@@ -25,3 +28,6 @@ Time period: 1970-2015, except 1993 (2016 in progress, publication expected June
 Unit of analysis: Attack
 
 Variables: >100 variables on location, tactics, perpetrators, targets, and outcomes
+
+* [Official site](http://www.start.umd.edu/gtd/)
+* [Documentation](https://github.com/maks-sh/Visualization-of-Global-Terrorism-Database/blob/master/Codebook.pdf)
